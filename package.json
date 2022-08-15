@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "prepare": "husky install --max-warnings=0"
+    "prepare": "husky install"
   },
   "dependencies": {
     "next": "12.2.5",
